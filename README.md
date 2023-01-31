@@ -9,3 +9,13 @@ A simple Laravel project for books.
 - Tailwind
 - DaisyUI
 - PostCSS
+
+## Setup
+
+``` $ composer install```
+
+``` $ npm install```
+
+``` $ npm run dev```
+
+In root directory add a ``.env`` file with your configuration

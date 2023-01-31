@@ -19,3 +19,7 @@ A simple Laravel project for books.
 ``` $ npm run dev```
 
 In root directory add a ``.env`` file with your configuration
+
+Serve with artisan
+
+``` $ php artisan serve```

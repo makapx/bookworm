@@ -13,15 +13,15 @@ A simple Laravel project for books.
 ## Setup
 
 ```bash
-$ composer install
+composer install
 ```
 
 ```bash
- $ npm install
+npm install
 ```
 
 ```bash
-$ npm run dev
+npm run dev
 ```
 
 In root directory add a ``.env`` file with your configuration
@@ -29,5 +29,5 @@ In root directory add a ``.env`` file with your configuration
 Serve with artisan
 
 ```bash
-$ php artisan serve
+php artisan serve
 ```

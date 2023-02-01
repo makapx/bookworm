@@ -12,14 +12,22 @@ A simple Laravel project for books.
 
 ## Setup
 
-``` $ composer install```
+```bash
+$ composer install
+```
 
-``` $ npm install```
+```bash
+ $ npm install
+```
 
-``` $ npm run dev```
+```bash
+$ npm run dev
+```
 
 In root directory add a ``.env`` file with your configuration
 
 Serve with artisan
 
-``` $ php artisan serve```
+```bash
+$ php artisan serve
+```
